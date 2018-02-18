@@ -10,37 +10,37 @@ body {
 	padding-bottom: 15px;
 }
 .name {
-		border:3px solid;
-		border-radius: 10px;
-		background-color: pink;
-		box-shadow: 5px 5px 0px 0px cyan;
-		padding-left: 10px;
-		margin-left: auto;
+	border:3px solid;
+	border-radius: 10px;
+	background-color: pink;
+	box-shadow: 5px 5px 0px 0px cyan;
+	padding-left: 10px;
+	margin-left: auto;
     	margin-right: auto;
     	width: 300px
 
 }
 img {
-  display: block;
-  margin: auto;
-  border: 3px solid;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  box-shadow: 0 5px 15px 0 cyan;
+  	display: block;
+ 	margin: auto;
+  	border: 3px solid;
+  	border-radius: 10px;
+  	margin-bottom: 10px;
+  	box-shadow: 0 5px 15px 0 cyan;
 }
 .fact {
-    font-style: italic;
-    margin: 10px,0px,10px,0px;
-    text-align: justify;
+	font-style: italic;
+    	margin: 10px,0px,10px,0px;
+    	text-align: justify;
 }
 .listitems {  
 	list-style-type: none;
 	padding: 0 5px;
 }
 .list {
-  font-weight: bold;
-  padding:0px;
-  margin:auto;
+  	font-weight: bold;
+  	padding:0px;
+  	margin:auto;
 }
 li:hover {
 	background-color: cyan;
