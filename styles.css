@@ -2,6 +2,7 @@
 body {
 	width: 350px; 
 }
+
 .card {
 	background-image:url("https://image.ibb.co/deH9a6/background.png");
 	border:3px solid;
@@ -9,17 +10,19 @@ body {
 	box-shadow: 5px 5px 5px 5px cyan;
 	padding-bottom: 15px;
 }
+
 .name {
-	border:3px solid;
+	border: 3px solid;
 	border-radius: 10px;
 	background-color: pink;
-	box-shadow: 5px 5px 0px 0px cyan;
+	box-shadow: 5px 5px 0 0 cyan;
 	padding-left: 10px;
 	margin-left: auto;
     	margin-right: auto;
     	width: 300px
 
 }
+
 img {
   	display: block;
  	margin: auto;
@@ -28,26 +31,31 @@ img {
   	margin-bottom: 10px;
   	box-shadow: 0 5px 15px 0 cyan;
 }
+
 .fact {
 	font-style: italic;
-    	margin: 10px,0px,10px,0px;
+    	margin: 10px 0 10px 0;
     	text-align: justify;
 }
+
 .listitems {  
 	list-style-type: none;
 	padding: 0 5px;
 }
+
 .list {
   	font-weight: bold;
-  	padding:0px;
-  	margin:auto;
+  	padding: 0;
+  	margin: auto;
 }
+
 li:hover {
 	background-color: cyan;
 }
+
 .description {
-	width:280px;
-	border:3px solid;
+	width: 280px;
+	border: 3px solid;
 	padding: 10px 10px 10px 10px;
 	background-color: pink;
 	border-radius: 10px;
